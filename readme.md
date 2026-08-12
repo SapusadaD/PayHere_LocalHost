@@ -101,7 +101,7 @@ still fails after a "fix".
 Add a paid file to the cart and check out. Use PayHere's sandbox card:
 
 ```
-Card    4916 2175 0000 0000
+Card    4916217501611292
 Expiry  any future date
 CVV     any 3 digits
 ```
